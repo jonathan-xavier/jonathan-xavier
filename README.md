@@ -1,4 +1,7 @@
-### Hi there 👋
+# Olá,👋 Sou Jonathan Xavier
+
+### Logo abaixo tem arquivado meus estudos e projetos. Sinta-se à vontade para ver!
+- 🌱 No momento estou aprendendo Flutter e Nodejs e logo mais React.
 
 <!--
 **jonathan-xavier/jonathan-xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
