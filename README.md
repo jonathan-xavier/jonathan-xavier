@@ -5,7 +5,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Xavier-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-xavier-desenvolvedor/)](https://www.linkedin.com/in/jonathan-xavier-desenvolvedor/) 
-[![Gmail Badge](https://img.shields.io/badge/-jonathanxavier556@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathanxavier556@gmail.com)](mailto:jonathanxavier556@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jonathanxavier556@gmail.com-0A66C2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathanxavier556@gmail.com)](mailto:jonathanxavier556@gmail.com)
 <!--
 **jonathan-xavier/jonathan-xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
