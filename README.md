@@ -1,7 +1,7 @@
 # Olá,👋 Sou Jonathan Xavier
 
 ### Logo abaixo tem arquivado meus estudos e projetos. Sinta-se à vontade para ver!
-- :fire: No momento estou aprendendo **Flutter** e **Nodejs** e logo mais **React**.
+- :fire: No momento estou aprendendo **Flutter** e **Java** e logo mais **Angular**.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Xavier-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-xavier-desenvolvedor/)](https://www.linkedin.com/in/jonathan-xavier-desenvolvedor/) 
