@@ -1,11 +1,14 @@
 # Olá,👋 Sou Jonathan Xavier
 
 ### Logo abaixo tem arquivado meus estudos e projetos. Sinta-se à vontade para ver!
-- :fire: No momento estou aprendendo **Flutter** e **Java** e logo mais **Angular**.
+:fire: No momento estou estudando:
+
+![JAVA](https://img.shields.io/badge/-Java-fff?style=flat-square&logo=Java&logoColor=red)
+![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=Angular)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Xavier-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-xavier-desenvolvedor/)](https://www.linkedin.com/in/jonathan-xavier-desenvolvedor/) 
-[![Gmail Badge](https://img.shields.io/badge/-jonathanxavier556@gmail.com-0A66C2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathanxavier556@gmail.com)](mailto:jonathanxavier556@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jonathanxavier556@gmail.com-fff?style=flat-square&logo=Gmail&logoColor=red&link=mailto:jonathanxavier556@gmail.com)](mailto:jonathanxavier556@gmail.com)
 
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
