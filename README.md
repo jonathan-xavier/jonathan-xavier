@@ -4,7 +4,7 @@
 :fire: No momento estou estudando:
 
 ![JAVA](https://img.shields.io/badge/-Java-fff?style=flat-square&logo=Java&logoColor=red)
-![React](https://img.shields.io/badge/-React-#1B9ADE?style=flat-square&logo=React)
+![React](https://img.shields.io/badge/-React-1B9ADE?style=flat-square&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 Meus contatos:
